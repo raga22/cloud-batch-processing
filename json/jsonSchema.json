@@ -1,0 +1,21 @@
+{
+    "BigQuery Schema":[
+       {
+          "name":"user_id",
+          "type":"INTEGER"
+       },
+       {
+          "name":"search_keyword",
+          "type":"STRING"
+       },
+       {
+          "name":"search_result_count",
+          "type":"INTEGER"
+       },
+       {
+          "name":"created_at",
+          "type":"DATETIME"
+       }
+    ]
+ }
+ 
